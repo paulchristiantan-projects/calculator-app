@@ -1,4 +1,5 @@
-# Already Up and Running on [https://paulchristiantan-projects.github.io/calculator-app/]
+# Link to page:
+[https://paulchristiantan-projects.github.io/calculator-app/]
 
 # Getting Started with Create React App
 
